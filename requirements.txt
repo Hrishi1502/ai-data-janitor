@@ -5,3 +5,4 @@ langchain-experimental
 langchain-google-genai
 google-generativeai
 tabulate
+pydantic<2
